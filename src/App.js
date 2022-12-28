@@ -12,8 +12,8 @@ function App() {
             <img src={logo} />
             <ul id="sidemenu">
               <li><a href="#header">Home</a></li>
-              <li><a href="#lichess">LiChess</a></li>
-              <li><a href="#chess">Chess.com</a></li>
+              <li><a href="#rapid">Rapid</a></li>
+              <li><a href="#blitz">Blitz</a></li>
               <li><a href="#signin">Sign in</a></li>
             </ul>
           </nav>
@@ -24,7 +24,7 @@ function App() {
         </div>
       </div>
 
-      <div id="lichess">
+      <div id="rapid">
         <div class="container">
           <h1 class="sub-title">LiChess</h1>
           <div class="lichess-list">
@@ -102,7 +102,7 @@ function App() {
         </div>
       </div>
 
-      <div id="chess">
+      <div id="blitz">
         <div class="container">
           <h1 class="sub-title">Chess.com</h1>
           <div class="chess-list">

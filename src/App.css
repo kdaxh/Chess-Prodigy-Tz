@@ -226,3 +226,12 @@ nav ul li a:hover::after {
 .col-4 {
   flex-basis: 25%;
 }
+
+/*----------------------copyright------------------------*/
+.copyright {
+  width: 100%;
+  text-align: center;
+  padding: 25px 0;
+  background: #727272;
+  font-weight: 300;
+}

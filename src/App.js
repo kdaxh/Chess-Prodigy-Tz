@@ -179,6 +179,9 @@ function App() {
           </div>
         </div>
       </div>
+      <div class="copyright">
+        <p>Copyright © 2022, Chess Prodigy Tz.</p>
+      </div>
     </div>
   );
 }

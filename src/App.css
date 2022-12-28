@@ -235,3 +235,8 @@ nav ul li a:hover::after {
   background: #727272;
   font-weight: 300;
 }
+/*------------------------icon---------------------------*/
+.icon {
+  width: 25px;
+  margin-left: 15px;
+}

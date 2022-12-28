@@ -2,6 +2,8 @@ import './App.css';
 import logo from './logo.png';
 import user from './user.png';
 import thumbnail from './thumbnail.png';
+import rapid_icon from './rapid.svg';
+import blitz_icon from './blitz.svg';
 
 function App() {
   return (
@@ -26,7 +28,7 @@ function App() {
 
       <div id="lichess">
         <div class="container">
-          <h1 class="sub-title">Rapid</h1>
+          <h1 class="sub-title">Rapid<img src={rapid_icon} class="icon" /></h1>
           <div class="lichess-list">
             <div>
               <img src={user} />
@@ -104,7 +106,7 @@ function App() {
 
       <div id="chess">
         <div class="container">
-          <h1 class="sub-title">Blitz</h1>
+          <h1 class="sub-title">Blitz<img src={blitz_icon} class="icon" /></h1>
           <div class="chess-list">
             <div>
               <img src={user} />

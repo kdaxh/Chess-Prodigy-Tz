@@ -25,7 +25,7 @@ function App() {
             <h1>View <x>top players</x> ratings</h1>
           </div>
         </div>
-        
+
       </div>
 
       <div id="lichess">

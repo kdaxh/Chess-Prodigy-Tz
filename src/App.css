@@ -127,8 +127,18 @@ nav ul li a:hover::after {
   display: inline-block;
 }
 
-.chess-list div:hover {
-  background: #f50053;
+.chess-list .player1:hover {
+  background: #FFD700;
+  transform: translateY(-10px);
+}
+
+.chess-list .player2:hover {
+  background: #C0C0C0;
+  transform: translateY(-10px);
+}
+
+.chess-list .player3:hover {
+  background: #CD7F32;
   transform: translateY(-10px);
 }
 
@@ -186,8 +196,18 @@ nav ul li a:hover::after {
   display: inline-block;
 }
 
-.lichess-list div:hover {
-  background: #f50053;
+.lichess-list .player1:hover {
+  background: #FFD700;
+  transform: translateY(-10px);
+}
+
+.lichess-list .player2:hover {
+  background: #C0C0C0;
+  transform: translateY(-10px);
+}
+
+.lichess-list .player3:hover {
+  background: #CD7F32;
   transform: translateY(-10px);
 }
 
@@ -207,8 +227,9 @@ nav ul li a:hover::after {
 }
 
 .table-row {
-  background-color: #c2c2c2;
+  /*background-color: #262626;*/
   box-shadow: 0px 0px 9px 9px rgba(0, 0, 0, 0.1);
+  color: #fff;
 }
 
 .col-1 {
@@ -216,14 +237,10 @@ nav ul li a:hover::after {
 }
 
 .col-2 {
-  flex-basis: 25%;
-}
-
-.col-3 {
   flex-basis: 40%;
 }
 
-.col-4 {
+.col-3 {
   flex-basis: 25%;
 }
 
@@ -239,4 +256,69 @@ nav ul li a:hover::after {
 .icon {
   width: 25px;
   margin-left: 15px;
+}
+
+/*----------------------css for smaller screen------------------*/
+nav .fa-solid.fa-xmark,.fa-solid.fa-bars{
+  display: none;
+}
+
+@media only screen and (max-width: 600px) {
+  #header {
+      background-image: url(background.png);
+  }
+
+  .header-text {
+      margin-top: 90%;
+      font-size: 16px;
+  }
+
+  .header-text p {
+      color: #fff;
+  }
+  
+  .header-text h1 {
+      font-size: 30px;
+  }
+
+  nav .menu,.close{
+      display: block;
+      font-size: 25px;
+  }
+
+  nav ul{
+      background: #ff004f;
+      position: fixed;
+      top: 0;
+      right: -200px;
+      width: 200px;
+      height: 100vh;
+      padding-top: 50px;
+      z-index: 2;
+      transition: right 0.5s;
+  }
+
+  nav ul li{
+      display: block;
+      margin: 25px;
+  }
+
+  nav ul li a {
+      color: #fff;
+  }
+
+  nav ul .close{
+      position: absolute;
+      top: 25px;
+      left: 25px;
+      cursor: pointer;
+  }
+
+  .sub-title{
+      font-size: 40px;
+  }
+  
+  .copyright{
+      font-size: 14px;
+  }
 }

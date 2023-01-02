@@ -1,8 +1,6 @@
 import './App.css';
-import * as ReactDOM from 'react-dom';
 import logo from './logo.png';
 import user from './user.png';
-import thumbnail from './thumbnail.png';
 import rapid_icon from './rapid.svg';
 import blitz_icon from './blitz.svg';
 
@@ -178,7 +176,6 @@ function App() {
       <div class="copyright">
         <p>Copyright © 2022, Chess Prodigy Tz.</p>
       </div>
-
     </div>
   );
 }

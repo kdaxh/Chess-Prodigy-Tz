@@ -258,6 +258,10 @@ nav ul li a:hover::after {
   margin-left: 15px;
 }
 
+.icon_menu{
+  width: 25px;
+}
+
 /*----------------------css for smaller screen------------------*/
 nav .fa-solid.fa-xmark,.fa-solid.fa-bars{
   display: none;
@@ -317,7 +321,7 @@ nav .fa-solid.fa-xmark,.fa-solid.fa-bars{
   .sub-title{
       font-size: 40px;
   }
-  
+
   .copyright{
       font-size: 14px;
   }

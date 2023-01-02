@@ -3,6 +3,8 @@ import logo from './logo.png';
 import user from './user.png';
 import rapid_icon from './rapid.svg';
 import blitz_icon from './blitz.svg';
+import menu_icon from './menu.svg';
+import close_icon from './close.svg';
 
 function App() {
   return (
@@ -16,9 +18,9 @@ function App() {
               <li><a href="#lichess" onclick="closemenu()">Rapid</a></li>
               <li><a href="#chess" onclick="closemenu()">Blitz</a></li>
               <li><a href="#signin" onclick="closemenu()">Sign in</a></li>
-              <i class="menu" onclick="closemenu()">M</i>
+              <i class="menu" onclick="closemenu()"><img src={menu_icon} class="icon_menu" /></i>
             </ul>
-            <i class="close" onclick="openmenu()">X</i>
+            <i class="close" onclick="openmenu()"><img src={close_icon} class="icon_menu" /></i>
           </nav>
           <div class="header-text">
             <p>Welcome to Chess Prodigy Tz</p>
@@ -174,7 +176,7 @@ function App() {
         </div>
       </div>
       <div class="copyright">
-        <p>Copyright © 2022, Chess Prodigy Tz.</p>
+        <p>Copyright © 2023, Chess Prodigy Tz.</p>
       </div>
     </div>
   );

@@ -1,10 +1,5 @@
 import './App.css';
 import logo from './logo.png';
-import user from './user.png';
-import rapid_icon from './rapid.svg';
-import blitz_icon from './blitz.svg';
-import menu_icon from './menu.svg';
-import close_icon from './close.svg';
 
 function App() {
   return (
@@ -12,166 +7,164 @@ function App() {
       <div id="header">
         <div class="container">
           <nav>
-            <img src={logo} />
+            <img src={logo} class="logo" />
             <ul id="sidemenu">
-              <li><a href="#header" onclick="closemenu()">Home</a></li>
-              <li><a href="#lichess" onclick="closemenu()">Rapid</a></li>
-              <li><a href="#chess" onclick="closemenu()">Blitz</a></li>
-              <li><a href="#signin" onclick="closemenu()">Sign in</a></li>
-              <i class="menu" onclick="closemenu()"><img src={menu_icon} class="icon_menu" /></i>
+              <li><a href="#header">Home</a></li>
+              <li><a href="#list">Leaderboard</a></li>
             </ul>
-            <i class="close" onclick="openmenu()"><img src={close_icon} class="icon_menu" /></i>
           </nav>
           <div class="header-text">
             <p>Welcome to Chess Prodigy Tz</p>
-            <h1>View <x>top players</x> ratings</h1>
-          </div>
-        </div>
-
-      </div>
-
-      <div id="lichess">
-        <div class="container">
-          <h1 class="sub-title">Rapid<img src={rapid_icon} class="icon" /></h1>
-          <div class="lichess-list">
-            <div class="player1">
-              <img src={user} />
-              <h2>1. Player#1</h2>
-              <p>RATING</p>
-            </div>
-
-            <div class="player2">
-              <img src={user} />
-              <h2>2. Player#2</h2>
-              <p>RATING</p>
-            </div>
-
-            <div class="player3">
-              <img src={user} />
-              <h2>3. Player#3</h2>
-              <p>RATING</p>
-            </div>
-          </div>
-        </div>
-        <div class="players">
-          <div class="table-container">
-            <h3>
-              <ul class="table">
-                <li class="table-row">
-                  <div class="col col-1">4.</div>
-                  <div class="col col-2">Player#4</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">5.</div>
-                  <div class="col col-2">Player#5</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">6.</div>
-                  <div class="col col-2">Player#6</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">7.</div>
-                  <div class="col col-2">Player#7</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">8.</div>
-                  <div class="col col-2">Player#8</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">9.</div>
-                  <div class="col col-2">Player#9</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">10.</div>
-                  <div class="col col-2">Player#10</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-              </ul></h3>
+            <h1>Every single <x>chess player</x> is an <x>Artist</x>
+            </h1>
           </div>
         </div>
       </div>
 
-      <div id="chess">
+      <div id="list">
         <div class="container">
-          <h1 class="sub-title">Blitz<img src={blitz_icon} class="icon" /></h1>
-          <div class="chess-list">
-            <div class="player1">
-              <img src={user} />
-              <h2>1. Player#1</h2>
-              <p>RATING</p>
+          <div class="row">
+            <div class="list-col-1">
+              <h2>Rapid</h2>
+              <div class="players">
+                <div class="table-container">
+                  <h3>
+                    <ul class="table">
+                      <li class="table-row1">
+                        <div class="col col-1">1.</div>
+                        <div class="col col-2">Player#1</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row2">
+                        <div class="col col-1">2.</div>
+                        <div class="col col-2">Player#2</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row3">
+                        <div class="col col-1">3.</div>
+                        <div class="col col-2">Player#3</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">4.</div>
+                        <div class="col col-2">Player#4</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">5.</div>
+                        <div class="col col-2">Player#5</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">6.</div>
+                        <div class="col col-2">Player#6</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">7.</div>
+                        <div class="col col-2">Player#7</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">8.</div>
+                        <div class="col col-2">Player#4</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">9.</div>
+                        <div class="col col-2">Player#4</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">10.</div>
+                        <div class="col col-2">Player#10</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+                    </ul>
+                  </h3>
+                </div>
+              </div>
             </div>
 
-            <div class="player2">
-              <img src={user} />
-              <h2>2. Player#2</h2>
-              <p>RATING</p>
+            <div class="list-col-2">
+              <h2>Blitz</h2>
+              <div class="players">
+                <div class="table-container">
+                  <h3>
+                    <ul class="table">
+                      <li class="table-row1">
+                        <div class="col col-1">1.</div>
+                        <div class="col col-2">Player#1</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row2">
+                        <div class="col col-1">2.</div>
+                        <div class="col col-2">Player#2</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row3">
+                        <div class="col col-1">3.</div>
+                        <div class="col col-2">Player#3</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">4.</div>
+                        <div class="col col-2">Player#4</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">5.</div>
+                        <div class="col col-2">Player#5</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">6.</div>
+                        <div class="col col-2">Player#6</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">7.</div>
+                        <div class="col col-2">Player#7</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">8.</div>
+                        <div class="col col-2">Player#4</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">9.</div>
+                        <div class="col col-2">Player#4</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+
+                      <li class="table-row">
+                        <div class="col col-1">10.</div>
+                        <div class="col col-2">Player#10</div>
+                        <div class="col col-3">RATING</div>
+                      </li>
+                    </ul>
+                  </h3>
+                </div>
+              </div>
             </div>
-
-            <div class="player3">
-              <img src={user} />
-              <h2>3. Player#3</h2>
-              <p>RATING</p>
-            </div>
-          </div>
-        </div>
-        <div class="players">
-          <div class="table-container">
-            <h3>
-              <ul class="table">
-                <li class="table-row">
-                  <div class="col col-1">4.</div>
-                  <div class="col col-2">Player#4</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">5.</div>
-                  <div class="col col-2">Player#5</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">6.</div>
-                  <div class="col col-2">Player#6</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">7.</div>
-                  <div class="col col-2">Player#7</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">8.</div>
-                  <div class="col col-2">Player#8</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">9.</div>
-                  <div class="col col-2">Player#9</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-
-                <li class="table-row">
-                  <div class="col col-1">10.</div>
-                  <div class="col col-2">Player#10</div>
-                  <div class="col col-3">RATING</div>
-                </li>
-              </ul></h3>
           </div>
         </div>
       </div>

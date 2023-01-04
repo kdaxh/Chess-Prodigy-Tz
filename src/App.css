@@ -175,6 +175,22 @@ nav ul li a:hover::after {
   flex-basis: 25%;
 }
 
+.col-4 {
+  flex-basis: 25%;
+}
+
+.col-5 {
+  flex-basis: 25%;
+}
+
+.col-6 {
+  flex-basis: 25%;
+}
+
+.col-7 {
+  flex-basis: 25%;
+}
+
 /*---------------------matches----------------------*/
 #matches {
   padding: 30px 0;

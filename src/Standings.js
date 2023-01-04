@@ -14,109 +14,181 @@ export default function Ratings() {
                                     <li class="table-row">
                                         <div class="col col-1">1.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">2.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">3.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">4.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">5.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">6.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">7.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">8.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">9.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">10.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">11.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">12.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">13.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">14.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">15.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">16.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">17.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">18.</div>
                                         <div class="col col-2">PlayerName</div>
-                                        <div class="col col-3">Points</div>
+                                        <div class="col col-3">Games</div>
+                                        <div class="col col-4">Win</div>
+                                        <div class="col col-5">Draw</div>
+                                        <div class="col col-6">Loss</div>
+                                        <div class="col col-7">Points</div>
                                     </li>
                                 </ul>
                             </h2>

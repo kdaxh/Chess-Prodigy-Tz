@@ -15,7 +15,7 @@ export function App() {
             <li><a href="#header">Home</a></li>
             <li><a href="#list">Leaderboard</a></li>
             <li><a href="#matches">Matches</a></li>
-            <li><a href="#legue">League table</a></li>
+            <li><a href="#league">League table</a></li>
           </ul>
         </nav>
         <div class="header-text">

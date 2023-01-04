@@ -31,7 +31,8 @@ export function App() {
         <p>Copyright © 2023, Chesswahili.</p>
       </div>
 
-    </div>);
+    </div>
+  );
 }
 
 export default App;

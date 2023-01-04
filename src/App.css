@@ -226,6 +226,37 @@ nav ul li a:hover::after {
   transform: translateY(-10px);
 }
 
+/*----------------------League------------------------*/
+#league {
+  padding: 35px 0;
+}
+
+.sub-title{
+  font-size: 45px;
+  color: #000;
+}
+
+.league-col-1 {
+  flex-basis: 50%;
+}
+
+.league-col-1 h2 {
+  font-size: 24px;
+  color: #000;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.league-col-2 {
+  flex-basis: 50%;
+}
+
+.league-col-2 h2 {
+  font-size: 24px;
+  color: #000;
+  text-align: center;
+  margin-bottom: 10px;
+}
 
 /*--------------------Copyright---------------------*/
 .copyright {

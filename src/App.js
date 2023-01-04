@@ -1,6 +1,7 @@
 import './App.css';
 import Leaderboard from './Leaderboard.js';
 import Matches from './Matches';
+import Standings from './Standings.js';
 import logo from './logo.png';
 
 export function App() {
@@ -28,6 +29,8 @@ export function App() {
       <div><Leaderboard /></div>
 
       <div><Matches /></div>
+
+      <div><Standings /></div>
 
       <div class="copyright">
         <p>Copyright © 2023, Chesswahili.</p>

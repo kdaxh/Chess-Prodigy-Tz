@@ -1,5 +1,6 @@
 import './App.css';
-import Api from './Api.js';
+import Leaderboard from './Leaderboard.js';
+import Matches from './Matches';
 import logo from './logo.png';
 
 export function App() {
@@ -17,7 +18,6 @@ export function App() {
           </ul>
         </nav>
         <div class="header-text">
-          <api />
           <p>Welcome to Chess Prodigy Tz</p>
           <h1>Every single <x>chess player</x> is an <x>Artist</x>
           </h1>
@@ -25,7 +25,9 @@ export function App() {
       </div>
     </div>
 
-      <div><Api /></div>
+      <div><Leaderboard /></div>
+
+      <div><Matches /></div>
 
       <div class="copyright">
         <p>Copyright © 2023, Chesswahili.</p>

@@ -11,7 +11,7 @@ export default function Ratings() {
                         <div class="table-container">
                             <h2>
                                 <ul class="table">
-                                <li class="table-row-head">
+                                    <li class="table-row-head">
                                         <div class="col col-1">No.</div>
                                         <div class="col col-2">Player</div>
                                         <div class="col col-3">GP</div>
@@ -40,7 +40,7 @@ export default function Ratings() {
                                         <div class="col col-6">0</div>
                                         <div class="col col-7">0</div>
                                     </li>
-                                    
+
                                     <li class="table-row">
                                         <div class="col col-1">3.</div>
                                         <div class="col col-2">arnie_N</div>

@@ -19,7 +19,7 @@ export function App() {
           </ul>
         </nav>
         <div class="header-text">
-          <p>Welcome to Chess Prodigy Tz</p>
+          <p>Welcome to Chesswahili</p>
           <h1>Every single <x>chess player</x> is an <x>Artist</x>
           </h1>
         </div>
@@ -33,7 +33,7 @@ export function App() {
       <div><Standings /></div>
 
       <div class="copyright">
-        <p>Copyright © 2023, Chesswahili.</p>
+        <p>Copyright © 2023, chesswahili.com</p>
       </div>
 
     </div>

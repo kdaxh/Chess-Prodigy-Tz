@@ -20,7 +20,7 @@ export default function Ratings() {
     return (
         <h2><div id="list" >
             <div class="container">
-                <h1 class="sub-title">Leaderboard</h1>
+                <h1 class="sub-title">LiChess Leaderboard</h1>
                 <div class="row">
                     <div class="list-col-1">
                         <h2>Rapid</h2>

@@ -172,23 +172,23 @@ nav ul li a:hover::after {
 }
 
 .col-3 {
-  flex-basis: 25%;
+  flex-basis: auto;
 }
 
 .col-4 {
-  flex-basis: 25%;
+  flex-basis: auto;
 }
 
 .col-5 {
-  flex-basis: 25%;
+  flex-basis: auto;
 }
 
 .col-6 {
-  flex-basis: 25%;
+  flex-basis: auto;
 }
 
 .col-7 {
-  flex-basis: 25%;
+  flex-basis: auto;
 }
 
 /*---------------------matches----------------------*/
@@ -227,6 +227,10 @@ nav ul li a:hover::after {
 .matches-list div span {
   color: #000;
   font-weight: bold;
+}
+
+.matches-list div li{
+  margin-bottom: 7px;
 }
 
 .matches-list div a {
@@ -295,12 +299,12 @@ nav .fa-solid.fa-xmark,
   }
 
   .header-text {
-    margin-top: 90%;
+    margin-top: 65%;
     font-size: 16px;
   }
 
   .header-text p {
-    color: #fff;
+    color: #000;
   }
 
   .header-text h1 {

@@ -14,7 +14,7 @@ export default function Matches() {
                         <li>raheemthefirst vs Briodee</li>
                         <li>ClusteredFib3r vs k_daxh</li>
                         <li>alphazzz3r0 vs dinokapon26</li>
-                        <li>Andre_Beatz vs Delbert</li>
+                        <li>Andre_Beatz vs somrandomguy</li>
                         <li>Farajahchallo vs Hopertz</li>
                         <li>MABESSA vs GN02</li>
                         <li>musir6363 vs BiGFiVeWin05</li>
@@ -26,7 +26,7 @@ export default function Matches() {
                         <li>Briodee vs Kafiti</li>
                         <li>k_daxh vs arnie_N</li>
                         <li>dinokapon26 vs raheemthefirst</li>
-                        <li>Delbert vs ClusteredFib3r</li>
+                        <li>somrandomguy vs ClusteredFib3r</li>
                         <li>Hopertz vs alphazzz3r0</li>
                         <li>GN02 vs Andre_Beatz</li>
                         <li>BiGFiVeWin05 vs Farajahchallo</li>
@@ -38,7 +38,7 @@ export default function Matches() {
                         <li>onesmo vs Briodee</li>
                         <li>Kazremy vs k_daxh</li>
                         <li>Kafiti vs dinokapon26</li>
-                        <li>arnie_N vs Delbert</li>
+                        <li>arnie_N vs somrandomguy</li>
                         <li>raheemthefirst vs Hopertz</li>
                         <li>ClusteredFib3r vs GN02</li>
                         <li>alphazzz3r0 vs BiGFiVeWin05</li>
@@ -53,7 +53,7 @@ export default function Matches() {
                         <span>14 Jan, 2023 to 15 Jan, 2023</span>
                         <li>k_daxh vs onesmo</li>
                         <li>dinokapon26 vs Briodee</li>
-                        <li>Delbert vs Kazremy</li>
+                        <li>somrandomguy vs Kazremy</li>
                         <li>Hopertz vs Kafiti</li>
                         <li>GN02 vs arnie_N</li>
                         <li>BiGFiVeWin05 vs raheemthefirst</li>
@@ -65,7 +65,7 @@ export default function Matches() {
                         <h2>Match Day 5</h2>
                         <span>14 Jan, 2023 to 15 Jan, 2023</span>
                         <li>onesmo vs dinokapon26</li>
-                        <li>k_daxh vs Delbert</li>
+                        <li>k_daxh vs somrandomguy</li>
                         <li>Briodee vs Hopertz</li>
                         <li>Kazremy vs GN02</li>
                         <li>Kafiti vs BiGFiVeWin05</li>
@@ -77,7 +77,7 @@ export default function Matches() {
                     <div>
                         <h2>Match Day 6</h2>    
                         <span>14 Jan, 2023 to 15 Jan, 2023</span>
-                        <li>Delbert vs onesmo</li>
+                        <li>somrandomguy vs onesmo</li>
                         <li>Hopertz vs dinokapon26</li>
                         <li>GN02 vs k_daxh</li>
                         <li>BiGFiVeWin05 vs Briodee</li>
@@ -94,7 +94,7 @@ export default function Matches() {
                         <h2>Match Day 7</h2>
                         <span>21 Jan, 2023 to 22 Jan, 2023</span>
                         <li>onesmo vs Hopertz</li>
-                        <li>Delbert vs GN02</li>
+                        <li>somrandomguy vs GN02</li>
                         <li>dinokapon26 vs BiGFiVeWin05</li>
                         <li>k_daxh vs musir6363</li>
                         <li>Briodee vs MABESSA</li>
@@ -108,7 +108,7 @@ export default function Matches() {
                         <span>21 Jan, 2023 to 22 Jan, 2023</span>
                         <li>GN02 vs onesmo</li>
                         <li>BiGFiVeWin05 vs Hopertz</li>
-                        <li>musir6363 vs Delbert</li>
+                        <li>musir6363 vs somrandomguy</li>
                         <li>MABESSA vs dinokapon26</li>
                         <li>Farajahchallo vs k_daxh</li>
                         <li>Andre_Beatz vs Briodee</li>
@@ -122,7 +122,7 @@ export default function Matches() {
                         <li>onesmo vs BiGFiVeWin05</li>
                         <li>GN02 vs musir6363</li>
                         <li>Hopertz vs MABESSA</li>
-                        <li>Delbert vs Farajahchallo</li>
+                        <li>somrandomguy vs Farajahchallo</li>
                         <li>dinokapon26 vs Andre_Beatz</li>
                         <li>k_daxh vs alphazzz3r0</li>
                         <li>Briodee vs ClusteredFib3r</li>
@@ -139,7 +139,7 @@ export default function Matches() {
                         <li>MABESSA vs BiGFiVeWin05</li>
                         <li>Farajahchallo vs GN02</li>
                         <li>Andre_Beatz vs Hopertz</li>
-                        <li>alphazzz3r0 vs Delbert</li>
+                        <li>alphazzz3r0 vs somrandomguy</li>
                         <li>ClusteredFib3r vs dinokapon26</li>
                         <li>raheemthefirst vs k_daxh</li>
                         <li>arnie_N vs Briodee</li>
@@ -153,7 +153,7 @@ export default function Matches() {
                         <li>BiGFiVeWin05 vs Andre_Beatz</li>
                         <li>GN02 vs alphazzz3r0</li>
                         <li>Hopertz vs ClusteredFib3r</li>
-                        <li>Delbert vs raheemthefirst</li>
+                        <li>somrandomguy vs raheemthefirst</li>
                         <li>dinokapon26 vs arnie_N</li>
                         <li>k_daxh vs Kafiti</li>
                         <li>Briodee vs Kazremy</li>
@@ -167,7 +167,7 @@ export default function Matches() {
                         <li>ClusteredFib3r vs BiGFiVeWin05</li>
                         <li>raheemthefirst vs GN02</li>
                         <li>arnie_N vs Hopertz</li>
-                        <li>Kafiti vs Delbert</li>
+                        <li>Kafiti vs somrandomguy</li>
                         <li>Kazremy vs dinokapon26</li>
                         <li>Briodee vs k_daxh</li>
                     </div>
@@ -184,7 +184,7 @@ export default function Matches() {
                         <li>BiGFiVeWin05 vs arnie_N</li>
                         <li>GN02 vs Kafiti</li>
                         <li>Hopertz vs Kazremy</li>
-                        <li>Delbert vs Briodee</li>
+                        <li>somrandomguy vs Briodee</li>
                         <li>dinokapon26 vs k_daxh</li>
                     </div>
                     <div>
@@ -198,7 +198,7 @@ export default function Matches() {
                         <li>Kazremy vs BiGFiVeWin05</li>
                         <li>Briodee vs GN02</li>
                         <li>k_daxh vs Hopertz</li>
-                        <li>dinokapon26 vs Delbert</li>
+                        <li>dinokapon26 vs somrandomguy</li>
                     </div>
                     <div>
                         <h2>Match Day 15</h2>    
@@ -211,7 +211,7 @@ export default function Matches() {
                         <li>musir6363 vs Briodee</li>
                         <li>BiGFiVeWin05 vs k_daxh</li>
                         <li>GN02 vs dinokapon26</li>
-                        <li>Hopertz vs Delbert</li>
+                        <li>Hopertz vs somrandomguy</li>
                     </div>
                 </div>
 
@@ -226,7 +226,7 @@ export default function Matches() {
                         <li>Briodee vs Farajahchallo</li>
                         <li>k_daxh vs MABESSA</li>
                         <li>dinokapon26 vs musir6363</li>
-                        <li>Delbert vs BiGFiVeWin05</li>
+                        <li>somrandomguy vs BiGFiVeWin05</li>
                         <li>Hopertz vs GN02</li>
                     </div>
                     <div>
@@ -238,7 +238,7 @@ export default function Matches() {
                         <li>alphazzz3r0 vs Briodee</li>
                         <li>Andre_Beatz vs k_daxh</li>
                         <li>Farajahchallo vs dinokapon26</li>
-                        <li>MABESSA vs Delbert</li>
+                        <li>MABESSA vs somrandomguy</li>
                         <li>musir6363 vs Hopertz</li>
                         <li>BiGFiVeWin05 vs GN02</li>
                     </div>

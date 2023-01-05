@@ -11,7 +11,7 @@ export default function Ratings() {
                         <div class="table-container">
                             <h2>
                                 <ul class="table">
-                                <li class="table-row">
+                                <li class="table-row-head">
                                         <div class="col col-1">No.</div>
                                         <div class="col col-2">Player</div>
                                         <div class="col col-3">GP</div>

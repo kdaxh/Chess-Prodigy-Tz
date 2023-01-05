@@ -135,13 +135,18 @@ nav ul li a:hover::after {
   padding: 20px 30px;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
   margin-left: 5px;
 }
 
 .table-row {
   background-color: #afafac;
   box-shadow: 0px 0px 9px 9px rgba(102, 102, 102, 0.1);
+  color: #fff;
+}
+
+.table-row-head{
+  background-color: #cd7f32;
   color: #fff;
 }
 

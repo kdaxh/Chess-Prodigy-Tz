@@ -20,7 +20,7 @@ export function App() {
         </nav>
         <div class="header-text">
           <p>Welcome to Chesswahili</p>
-          <h1>Every single <x>chess player</x> is an <x>Artist</x>
+          <h1>Every single chess player is an Artist
           </h1>
         </div>
       </div>

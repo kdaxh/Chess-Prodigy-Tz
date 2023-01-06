@@ -55,7 +55,7 @@ nav ul li a::after {
   content: '';
   width: 0;
   height: 3px;
-  background: #ff004f;
+  background: #fcd116;
   position: absolute;
   left: 0;
   bottom: -6px;
@@ -82,7 +82,11 @@ nav ul li a:hover::after {
 }
 
 .header-text h1 x {
-  color: #ff004f;
+  color: #fcd116;
+}
+
+.header-text h1 y {
+  color: #1eb53a;
 }
 
 /*----------------------List------------------------*/
@@ -90,7 +94,7 @@ nav ul li a:hover::after {
   padding: 35px 0;
 }
 
-.sub-title{
+.sub-title {
   font-size: 45px;
   color: #000;
 }
@@ -145,7 +149,7 @@ nav ul li a:hover::after {
   color: #fff;
 }
 
-.table-row-head{
+.table-row-head {
   background-color: #cd7f32;
   color: #fff;
 }
@@ -234,7 +238,7 @@ nav ul li a:hover::after {
   font-weight: bold;
 }
 
-.matches-list div li{
+.matches-list div li {
   margin-bottom: 7px;
 }
 
@@ -256,7 +260,7 @@ nav ul li a:hover::after {
   padding: 35px 0;
 }
 
-.sub-title{
+.sub-title {
   font-size: 45px;
   color: #000;
 }
@@ -353,6 +357,38 @@ nav .fa-solid.fa-xmark,
 
   .list-col-2 {
     font-size: 14px;
+  }
+
+
+  .sub-title {
+    font-size: 30px;
+    color: #000;
+  }
+
+  .league-col-1 {
+    flex-basis: 50%;
+  }
+
+  .league-col-1 h2 {
+    font-size: 17px;
+    color: #000;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .league-col-2 {
+    flex-basis: 50%;
+  }
+
+  .league-col-2 h2 {
+    font-size: 17px;
+    color: #000;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .table-container h2 {
+    font-size: 17px;  
   }
 
   .copyright {

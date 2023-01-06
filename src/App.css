@@ -304,7 +304,7 @@ nav .fa-solid.fa-xmark,
 
 @media only screen and (max-width: 600px) {
   #header {
-    background-image: url(background.png)
+    background-image: url(phone-background.png)
   }
 
   .header-text {

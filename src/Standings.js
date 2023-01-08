@@ -31,7 +31,7 @@ export default function Ratings() {
                                         <div class="col col-7">6</div>
                                     </li>
 
-                                    <li class="table-row2">
+                                    <li class="table-row1">
                                         <div class="col col-1">2.</div>
                                         <div class="col col-2">onesmo</div>
                                         <div class="col col-3">3</div>
@@ -41,7 +41,7 @@ export default function Ratings() {
                                         <div class="col col-7">6</div>
                                     </li>
 
-                                    <li class="table-row3">
+                                    <li class="table-row1">
                                         <div class="col col-1">3.</div>
                                         <div class="col col-2">BiGFiVeWin05</div>
                                         <div class="col col-3">2</div>

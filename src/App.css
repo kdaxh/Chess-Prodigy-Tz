@@ -81,14 +81,6 @@ nav ul li a:hover::after {
   color: #000;
 }
 
-.header-text h1 x {
-  color: #fcd116;
-}
-
-.header-text h1 y {
-  color: #1eb53a;
-}
-
 /*----------------------List------------------------*/
 #list {
   padding: 35px 0;
@@ -299,6 +291,39 @@ nav ul li a:hover::after {
   font-weight: 300;
 }
 
+/*MENU*/
+.nav__toggle {
+  color: #000;
+  font-weight: 600px;
+}
+
+.nav__list {
+  display: flex;
+  column-gap: 2rem;
+}
+
+.nav__link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #000;
+  font-weight: 600px;
+  transition: .3s;
+}
+
+.nav__icon,
+.nav__close,
+.nav__toggle {
+  display: none;
+}
+
+.nav {
+  height: calc(3rem + 1.5rem);
+  display: flex;
+  justify-content: space-between;
+  column-gap: 1rem;
+}
+
 /*----------------------css for smaller screen------------------*/
 nav .fa-solid.fa-xmark,
 .fa-solid.fa-bars {
@@ -311,7 +336,7 @@ nav .fa-solid.fa-xmark,
   }
 
   .header-text {
-    margin-top: 90%;
+    margin-top: 65%;
     font-size: 16px;
   }
 
@@ -391,10 +416,69 @@ nav .fa-solid.fa-xmark,
   }
 
   .table-container h2 {
-    font-size: 17px;  
+    font-size: 17px;
   }
 
   .copyright {
     font-size: 14px;
+  }
+
+  .nav {
+    height: 3rem;
+  }
+
+  .nav__menu {
+    position: fixed;
+    bottom: -100%;
+    left: 0;
+    width: 100%;
+    background-color: #fcd116;
+    padding: 2rem 1.5rem 4rem;
+    box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 1.5rem 1.5rem 0 0;
+    transition: .3s;
+  }
+
+  .show-menu {
+    bottom: 0;
+  }
+
+  .nav__list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+  }
+
+  .nav__icon {
+    font-size: 1.2rem;
+    color: #000;
+  }
+
+  .nav__close {
+    position: absolute;
+    right: 1.3rem;
+    bottom: .5rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #000;
+  }
+
+  .nav__close:hover {
+    color: #000;
+  }
+
+  .nav__toggle {
+    font-size: 1.1rem;
+    cursor: pointer;
+  }
+
+  .nav__icon,
+  .nav__close,
+  .nav__toggle {
+    display: block;
+  }
+
+  .nav__item {
+    color: #000
   }
 }

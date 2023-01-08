@@ -162,13 +162,13 @@ nav ul li a:hover::after {
 }
 
 .table-row2 {
-  background-color: #c0c0c0;
+  background-color: #ffe96f;
   box-shadow: 0px 0px 9px 9px rgba(0, 0, 0, 0.1);
   color: #fff;
 }
 
 .table-row3 {
-  background-color: #cd7f32;
+  background-color: #ffe96f;
   box-shadow: 0px 0px 9px 9px rgba(0, 0, 0, 0.1);
   color: #fff;
 }
@@ -204,7 +204,7 @@ nav ul li a:hover::after {
 /*---------------------matches----------------------*/
 #matches {
   padding: 30px 0;
-  background-color: #afafac;
+  background-color: #f7f7f7;
 }
 
 .matches-list {
@@ -287,6 +287,8 @@ nav ul li a:hover::after {
   text-align: center;
   margin-bottom: 10px;
 }
+
+
 
 /*--------------------Copyright---------------------*/
 .copyright {

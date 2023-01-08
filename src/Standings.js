@@ -64,7 +64,7 @@ export default function Ratings() {
                                     <li class="table-row">
                                         <div class="col col-1">5.</div>
                                         <div class="col col-2">Andre_Beatz</div>
-                                        <div class="col col-3">0</div>
+                                        <div c  lass="col col-3">0</div>
                                         <div class="col col-4">0</div>
                                         <div class="col col-5">0</div>
                                         <div class="col col-6">0</div>

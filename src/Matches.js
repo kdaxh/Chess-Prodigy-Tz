@@ -5,19 +5,19 @@ export default function Matches() {
         <div id="matches">
             <div class="container">
                 <h1 class="sub-title">Matches</h1>
-                <div class="matches-list">
+                <div class="matches-list ⓌⒹⓁ">
                     <div>
-                        <h2>Match Day 1</h2>
+                        <h2>Match Day 1</h2> 
                         <span>07 Jan, 2023 to 08 Jan, 2023</span>
-                        <li>onesmo vs Kafiti</li>
-                        <li>arnie_N vs Kazremy</li>
-                        <li>raheemthefirst vs Briodee</li>
-                        <li>ClusteredFib3r vs k_daxh</li>
+                        <li>onesmo Ⓦ vs Kafiti Ⓛ</li>
+                        <li>arnie_N Ⓦ vs Kazremy Ⓛ</li>
+                        <li>raheemthefirst Ⓦ vs Briodee Ⓛ</li>
+                        <li>ClusteredFib3r Ⓦ vs k_daxh Ⓛ</li>
                         <li>alphazzz3r0 vs dinokapon26</li>
                         <li>Andre_Beatz vs somrandomguy</li>
-                        <li>Farajahchallo vs Hopertz</li>
-                        <li>MABESSA vs GN02</li>
-                        <li>musir6363 vs BiGFiVeWin05</li>
+                        <li>Farajahchallo Ⓛ vs Hopertz Ⓦ</li>
+                        <li>MABESSA Ⓛ vs GN02 Ⓦ</li>
+                        <li>musir6363 Ⓛ vs BiGFiVeWin05 Ⓦ</li>
                     </div>
                     <div>
                         <h2>Match Day 2</h2>
@@ -28,22 +28,22 @@ export default function Matches() {
                         <li>dinokapon26 vs raheemthefirst</li>
                         <li>somrandomguy vs ClusteredFib3r</li>
                         <li>Hopertz vs alphazzz3r0</li>
-                        <li>GN02 vs Andre_Beatz</li>
+                        <li>GN02 Ⓦ vs Andre_Beatz Ⓛ</li>
                         <li>BiGFiVeWin05 vs Farajahchallo</li>
-                        <li>musir6363 vs MABESSA</li>
+                        <li>musir6363 Ⓛ vs MABESSA Ⓦ</li>
                     </div>
                     <div>
                         <h2>Match Day 3</h2>    
                         <span>07 Jan, 2023 to 08 Jan, 2023</span>
-                        <li>onesmo vs Briodee</li>
-                        <li>Kazremy vs k_daxh</li>
+                        <li>onesmo Ⓦ vs Briodee Ⓛ</li>
+                        <li>Kazremy Ⓛ vs k_daxh Ⓦ</li>
                         <li>Kafiti vs dinokapon26</li>
                         <li>arnie_N vs somrandomguy</li>
                         <li>raheemthefirst vs Hopertz</li>
-                        <li>ClusteredFib3r vs GN02</li>
-                        <li>alphazzz3r0 vs BiGFiVeWin05</li>
-                        <li>Andre_Beatz vs musir6363</li>
-                        <li>Farajahchallo vs MABESSA</li>
+                        <li>ClusteredFib3r Ⓛ vs GN02 Ⓦ</li>
+                        <li>alphazzz3r0 Ⓛ vs BiGFiVeWin05 Ⓦ</li>
+                        <li>Andre_Beatz Ⓛ vs musir6363 Ⓦ</li>
+                        <li>Farajahchallo Ⓛ vs MABESSA Ⓦ</li>
                     </div>
                 </div>
 

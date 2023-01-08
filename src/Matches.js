@@ -22,7 +22,7 @@ export default function Matches() {
                     <div>
                         <h2>Match Day 2</h2>
                         <span>07 Jan, 2023 to 08 Jan, 2023</span>
-                        <li>Kazremy vs onesmo</li>
+                        <li>Kazremy Ⓛ vs onesmo Ⓦ</li>
                         <li>Briodee vs Kafiti</li>
                         <li>k_daxh vs arnie_N</li>
                         <li>dinokapon26 vs raheemthefirst</li>
@@ -38,8 +38,8 @@ export default function Matches() {
                         <li>onesmo Ⓦ vs Briodee Ⓛ</li>
                         <li>Kazremy Ⓛ vs k_daxh Ⓦ</li>
                         <li>Kafiti vs dinokapon26</li>
-                        <li>arnie_N vs somrandomguy</li>
-                        <li>raheemthefirst vs Hopertz</li>
+                        <li>arnie_N Ⓛ vs somrandomguy Ⓦ</li>
+                        <li>raheemthefirst Ⓛ vs Hopertz Ⓦ</li>
                         <li>ClusteredFib3r Ⓛ vs GN02 Ⓦ</li>
                         <li>alphazzz3r0 Ⓛ vs BiGFiVeWin05 Ⓦ</li>
                         <li>Andre_Beatz Ⓛ vs musir6363 Ⓦ</li>

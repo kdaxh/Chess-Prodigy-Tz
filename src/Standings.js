@@ -24,40 +24,40 @@ export default function Ratings() {
                                     <li class="table-row">
                                         <div class="col col-1">1.</div>
                                         <div class="col col-2">Hopertz</div>
-                                        <div class="col col-3">1</div>
-                                        <div class="col col-4">1</div>
+                                        <div class="col col-3">0</div>
+                                        <div class="col col-4">0</div>
                                         <div class="col col-5">0</div>
                                         <div class="col col-6">0</div>
-                                        <div class="col col-7">2</div>
+                                        <div class="col col-7">0</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">2.</div>
                                         <div class="col col-2">onesmo</div>
-                                        <div class="col col-3">1</div>
-                                        <div class="col col-4">1</div>
+                                        <div class="col col-3">0</div>
+                                        <div class="col col-4">0</div>
                                         <div class="col col-5">0</div>
                                         <div class="col col-6">0</div>
-                                        <div class="col col-7">2</div>
+                                        <div class="col col-7">0</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">3.</div>
                                         <div class="col col-2">Farajahchallo</div>
-                                        <div class="col col-3">1</div>
+                                        <div class="col col-3">0</div>
                                         <div class="col col-4">0</div>
                                         <div class="col col-5">0</div>
-                                        <div class="col col-6">1</div>
+                                        <div class="col col-6">0</div>
                                         <div class="col col-7">0</div>
                                     </li>
 
                                     <li class="table-row">
                                         <div class="col col-1">4.</div>
                                         <div class="col col-2">Kafiti</div>
-                                        <div class="col col-3">1</div>
+                                        <div class="col col-3">0</div>
                                         <div class="col col-4">0</div>
                                         <div class="col col-5">0</div>
-                                        <div class="col col-6">1</div>
+                                        <div class="col col-6">0</div>
                                         <div class="col col-7">0</div>
                                     </li>
 

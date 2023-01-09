@@ -475,7 +475,7 @@ nav .fa-solid.fa-xmark,
   .nav__icon,
   .nav__close,
   .nav__toggle {
-    display: block;
+    display: none;
   }
 
   .nav__item {
